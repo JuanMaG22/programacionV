@@ -6,7 +6,8 @@
   "scripts": {
     "app":"node app.js",
     "sum": "node opeartions/sum.js",
-    "sub": "node opeartions/basic/sub.js"
+    "sub": "node opeartions/basic/sub.js",
+    "mult": "node opeartions/mult.js"
   },
   "keywords": [],
   "author": "",
