@@ -6,7 +6,9 @@
     "app": "node app.js",
     "sum": "node opeartions/sum.js",
     "sub": "node opeartions/basic/sub.js",
-    "mult": "node opeartions/mult.js"
+    "mult": "node opeartions/mult.js",
+    "variables": "node intro/variables.js",
+    "operadores": "node intro/operadores.js"
   },
   "keywords": [],
   "author": "",
