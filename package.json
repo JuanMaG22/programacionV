@@ -1,15 +1,15 @@
 {
   "name": "juanma-prov",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "app":"node app.js",
+    "app": "node app.js",
     "sum": "node opeartions/sum.js",
     "sub": "node opeartions/basic/sub.js",
     "mult": "node opeartions/mult.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
