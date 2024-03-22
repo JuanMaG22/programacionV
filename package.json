@@ -8,7 +8,10 @@
     "sub": "node opeartions/basic/sub.js",
     "mult": "node opeartions/mult.js",
     "variables": "node intro/variables.js",
-    "operadores": "node intro/operadores.js"
+    "operadores": "node intro/operadores.js",
+    "operadoresComparacion": "node intro/operadoresComparacion.js ",
+    "operadores_logicos": "node intro/operadores_logicos.js",
+    "metodosString": "node intro/metodosString.js"
   },
   "keywords": [],
   "author": "",
